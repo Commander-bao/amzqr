@@ -8,6 +8,7 @@
 ![](images/path.jpg)
 ## 再次打开终端，输入一行source ~/.bashrc
 ![](images/source.jpg)
+## 重新输入pip install amzqr，这回没报warning，问题解决了
 ![](images/reinstall.jpg)
 ## 新建一个文件夹，命名成amzqr_image
 ![](images/folder.jpg)
