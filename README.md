@@ -18,3 +18,4 @@
 ![](images/qrcode.jpg)
 ## 显示生成成功了，打开看看
 ![](images/succeed.jpg)
+# 原教程网址 https://github.com/x-hw/amazing-qr
